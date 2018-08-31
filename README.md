@@ -1,2 +1,2 @@
-# upyterWorkflow
+# JupyterWorkflow
 Jupyter Workflow Example 
